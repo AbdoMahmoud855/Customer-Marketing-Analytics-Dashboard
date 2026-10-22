@@ -11,7 +11,7 @@ An interactive Tableau dashboard that tells the story of **2,205 customers**: wh
 
 | File | Description |
 |---|---|
-| `CustomerMarketingDashboard.twbx` | The complete Tableau workbook |
+| `CustomerMarketingDashboard.twb` | The complete Tableau workbook |
 | `images/` | Dashboard screenshots |
 | `data/` | The dataset (CSV) |
 
